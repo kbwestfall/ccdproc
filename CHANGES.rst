@@ -10,6 +10,8 @@ Other Changes and Additions
 Bug Fixes
 ^^^^^^^^^
 
+- ``Combiner.sigma_clipping`` no longer overwrites the existing mask.
+
 2.4.3 (2025-01-15)
 ------------------
 
